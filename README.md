@@ -109,5 +109,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Moses-Nyagudi** - ( https://github.com/Moses-Nyagudi)
-* **babu muraya** - (https://github.com/bmuraya)
+* **Moses Nyagudi** - (https://github.com/Moses-Nyagudi
+* **Babu Muraya** - (https://github.com/bmuraya)
